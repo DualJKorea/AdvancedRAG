@@ -9,14 +9,22 @@ Inflearn 강의 [하루만에 끝내는 Advanced RAG 핵심 정리] 에서 데�
 
 ## 소스 코드 목차
 
-    LC_01_simpleRAG.py
-    LC_02_hydeRAG.py
-    LC_03_RAGagent.py
-    LC_04_rerankRAG.py
-    LC_05_multiToolAgentRAG.py
-    LC_06_hybridSearchRAG.py
-    LF_03_server-everything.json
-    requirements.txt
+|코드|설명|     
+|---|----|
+|LC_01_simpleRAG.py | 심플RAG |
+|LC_02_hydeRAG.py | hydeRAG|
+|LC_03_RAGagent.py | RAG agent(tool call) |
+|LC_04_rerankRAG.py | rerank RAG |
+|LC_05_multiToolAgentRAG.py | multi-tool RAG Agent(multi tool) |
+|LC_06_hybridSearchRAG.py | hybrid search RAG|
+|LF_03_server-everything.json | MCP서버 설정 |
+|참고_의사코드_MCP예시_01.py | 강의 이론 설명용 의사코드(흐름만 참조) |
+|참고_의사코드_MCP예시_02.py | 강의 이론 설명용 의사코드(흐름만 참조) |
+|참고_의사코드_MCP예시_03.py | 강의 이론 설명용 의사코드(흐름만 참조) |
+|참고_의사코드_non-MCP예시_01.py | 강의 이론 설명용 의사코드(흐름만 참조) |
+|참고_의사코드_non-MCP예시_02.py | 강의 이론 설명용 의사코드(흐름만 참조) |
+|참고_의사코드_문서요약에이전트.py | 강의 이론 설명용 의사코드(흐름만 참조) |
+|requirements.txt | langchain 패키지 셋업 |
 
 
 # README - 데모 안내
