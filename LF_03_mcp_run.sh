@@ -1,0 +1,1 @@
+npx @modelcontextprotocol/server-everything sse
