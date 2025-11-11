@@ -1,8 +1,8 @@
-# One Day "AdvancedRAG"
-Inflearn 강의 [하루만에 끝내는 Advanced RAG 핵심 정리] 에서 데모에 사용된 파이썬 소스 코드입니다.
+# 한번에 끝내는 LLM부터 AI Agent까지: RAG, MCP로 확장되는 생성형 AI의 진화
+Inflearn 강의 [한번에 끝내는 LLM부터 AI Agent까지: RAG, MCP로 확장되는 생성형 AI의 진화] 에서 데모에 사용된 파이썬 소스 코드입니다.
 
 
-## 강의 내용 중에서...
+## 강의 내용 중에서..
 
 
 ## 소스 코드 목차
